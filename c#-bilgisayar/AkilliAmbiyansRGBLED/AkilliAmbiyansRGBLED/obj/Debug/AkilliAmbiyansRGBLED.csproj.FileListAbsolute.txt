@@ -1,0 +1,12 @@
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\Debug\AkilliAmbiyansRGBLED.exe.config
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\Debug\AkilliAmbiyansRGBLED.exe
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\Debug\AkilliAmbiyansRGBLED.pdb
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.csprojAssemblyReference.cache
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.Form1.resources
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.Properties.Resources.resources
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.csproj.GenerateResource.cache
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.csproj.CoreCompileInputs.cache
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.exe
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.pdb
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\Debug\AkilliAmbiyansRGBLED.csproj.CopyComplete

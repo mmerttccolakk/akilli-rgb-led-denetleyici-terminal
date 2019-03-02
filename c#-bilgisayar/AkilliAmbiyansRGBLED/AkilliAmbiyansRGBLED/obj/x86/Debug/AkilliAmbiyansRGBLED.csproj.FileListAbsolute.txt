@@ -1,0 +1,9 @@
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\x86\Debug\AkilliAmbiyansRGBLED.exe.config
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\x86\Debug\AkilliAmbiyansRGBLED.exe
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\bin\x86\Debug\AkilliAmbiyansRGBLED.pdb
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.Form1.resources
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.Properties.Resources.resources
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.csproj.GenerateResource.cache
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.csproj.CoreCompileInputs.cache
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.exe
+C:\Users\MertC\Desktop\Dersler\Bitirme_projesi\c#\AkilliAmbiyansRGBLED\AkilliAmbiyansRGBLED\obj\x86\Debug\AkilliAmbiyansRGBLED.pdb
